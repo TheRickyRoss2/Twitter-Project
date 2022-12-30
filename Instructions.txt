@@ -1,0 +1,15 @@
+1. Enter in your username and password. If it is wrong, the program will end.
+
+2. Start Menu Commands:
+* "entire timeline"
+    - Prints out every tweets on Twitter starting from tweetId #1.
+* "show all users"
+    - Prints out every user and his/her corresponding id on Twitter.
+* "show all my followers"
+    - Prints out a list of the current user's followers and their corresponding ids
+* "home timeline"
+    - Prints out the last time tweets on Twitter.
+* "searching"
+    - Prints out all tweets that have the search word specified by the user
+* "tweeting"
+    - Creates a new tweet for the current user. Requires a body of text and list of hashtags
